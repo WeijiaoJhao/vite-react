@@ -1,5 +1,6 @@
 # vite-react
  - router：react-router-dom
+ - store：zustand
 
 ## Environment prepare
 NodeJS v16.14.2+
